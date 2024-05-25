@@ -1,7 +1,7 @@
 Short Story writer using open ai
 
 ## users can add character and detials
-## generate stroy  using character id or name
+## generate story  using character id or name
 
 endpoints
 
