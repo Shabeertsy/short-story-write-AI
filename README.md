@@ -7,6 +7,7 @@ endpoints
 
 api/create_character/
 api/generate_story/
+api/list_characters/
 
 #installation
 install requirements.txt
